@@ -56,11 +56,6 @@
 [![GFG](https://img.shields.io/badge/-GeeksforGeeks-05122A?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/deepi2rsc)
 
 ---
-
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pathiputtor-deepika&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ---
